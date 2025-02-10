@@ -9,6 +9,12 @@
   "description": "",
   "devDependencies": {
     "@playwright/test": "^1.50.1",
-    "@types/node": "^22.13.1"
+    "@types/node": "^22.13.1",
+    "commitizen": "^4.3.1",
+    "cz-conventional-changelog": "^3.3.0",
+    "git-cz": "^4.9.0"
+  },
+  "dependencies": {
+    "cz": "^1.8.2"
   }
 }
